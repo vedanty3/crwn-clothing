@@ -1,4 +1,4 @@
-## ***CRWN CLOTHING: An Ecommerce clothing store 👕***
+## ***CRWN CLOTHING: An Ecommerce Clothing Store 👕***
 
 *This is an E-commerce application built upon ReactJs, Redux, React Router, Context API, Firebase, Stripe + more. This is going to be a full stack app (MERN stack), using Firebase.*
 
@@ -15,6 +15,7 @@
 - Stripe API
 - Styled-Components
 
+##### ***Homepage Snap:***
 <h1 align="center">
 	<img alt="Final Homepage" src="https://github.com/francianepovoa/crwn-clothing/blob/master/img/Home.png"/>
 </h1>
