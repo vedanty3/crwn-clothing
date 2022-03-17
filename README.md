@@ -1,18 +1,5 @@
 ## ***CRWN CLOTHING: An Ecommerce clothing store 👕***
 
-<p align="center"> 
-  <a href="#-frontend-technologies">Frontend Technologies</a>&nbsp;|&nbsp;
-  <a href="#-Getting-started">Getting Started</a>&nbsp;|&nbsp
-  
-</p>
-
-<p align="center">
-  <a href="#-backend-technologies">Backend Technologies</a>&nbsp;&nbsp;|&nbsp;&nbsp;
- <a href="#-how-to-contribute-frontend">How To Contribute</a>&nbsp;|&nbsp;
-</p>
-
-### ***🤔 What's exactly it's going to be?***
-
 *This is an E-commerce application built upon ReactJs, Redux, React Router, Context API, Firebase, Stripe + more. This is going to be a full stack app (MERN stack), using Firebase.*
 
 - React
