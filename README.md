@@ -16,5 +16,5 @@
 - Styled-Components
 
 <h1 align="center">
-	<img alt="Final Homepage" src="./src/assests/snap.png"/>
+	<img alt="Final Homepage" src="https://github.com/francianepovoa/crwn-clothing/blob/master/img/Home.png"/>
 </h1>
