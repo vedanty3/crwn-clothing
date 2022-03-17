@@ -15,6 +15,7 @@
 - Stripe API
 - Styled-Components
 
+<h3></h3>
 ##### ***Homepage Snap:***
 <h1 align="center">
 	<img alt="Final Homepage" src="https://github.com/francianepovoa/crwn-clothing/blob/master/img/Home.png"/>
