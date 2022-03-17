@@ -37,7 +37,7 @@
 
 ### ***⚙️ Frontend Technologies***
 <h1 align="center">
-	<img alt="Project Screenshots" src="./img/HomePage.gif"/>
+	<img alt="Final Homepage" src="./src/assests/snap.png"/>
 </h1>
 
 Technologies that I used to develop this frontend app
