@@ -1,4 +1,4 @@
-## ***👑 CRWN CLOTHING: An Ecommerce Clothing Store 👕***
+## ***CRWN CLOTHING: An Ecommerce Clothing Store 👕***
 
 *A full stack Ecommerce clothing store built with React, Redux, React Hooks using Firebase and Stripe API, deployed with Heroku.*
 
